@@ -1,0 +1,9 @@
+@article{unde2017block,
+  title={Block compressive sensing: Individual and joint reconstruction of correlated images},
+  author={Unde, Amit Satish and Deepthi, PP},
+  journal={Journal of Visual Communication and Image Representation},
+  volume={44},
+  pages={187--197},
+  year={2017},
+  publisher={Elsevier}
+}

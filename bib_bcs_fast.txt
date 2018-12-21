@@ -1,0 +1,9 @@
+@article{unde2018fast,
+  title={Fast BCS-FOCUSS and DBCS-FOCUSS with augmented Lagrangian and minimum residual methods},
+  author={Unde, Amit Satish and Deepthi, PP},
+  journal={Journal of Visual Communication and Image Representation},
+  volume={52},
+  pages={92--100},
+  year={2018},
+  publisher={Elsevier}
+}

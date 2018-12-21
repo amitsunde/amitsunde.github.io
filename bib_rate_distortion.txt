@@ -1,0 +1,9 @@
+@article{unde2018rate,
+  title={Rate--distortion analysis of structured sensing matrices for block compressive sensing of images},
+  author={Unde, Amit Satish and Deepthi, PP},
+  journal={Signal Processing: Image Communication},
+  volume={65},
+  pages={115--127},
+  year={2018},
+  publisher={Elsevier}
+}
